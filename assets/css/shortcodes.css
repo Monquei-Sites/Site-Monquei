@@ -35,6 +35,7 @@
     * wg-videos
 
 */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,800&display=swap');
 
 .themesflat-container {
     position     : relative;
@@ -1151,7 +1152,7 @@
 
 .heading-section .main-title span {
     color: #bde302;
-    font-family: 'Playfair Display';
+    font-family: 'Nunito';
     font-style: italic;
     line-height: 51px;
 }
@@ -1600,7 +1601,7 @@
 .wg-create-design.style-2 .image img {
     right: 0;
     left: unset;
-    box-shadow: 0px 20px 40px 0px rgba(9, 182, 162, 0.10);
+    box-shadow: 0px 20px 40px 0px #b9dc0b27;
     animation: none;
 }
 
@@ -2338,7 +2339,7 @@ ul.list-item li .icon-tick::before {
 .pricing-item.style-1 {
     padding: 43px 50px 50px;
     border-radius: 40px;
-    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, rgba(9, 182, 162, 0.10) 100%);
+    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, #b9dc0b27 100%);
     border: 1px solid rgba(255, 255, 255, 0.10);
     box-shadow: none;
 }
@@ -2348,7 +2349,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .pricing-item.style-1.active {
-    background: linear-gradient(163deg, rgba(9, 182, 162, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%);
+    background: linear-gradient(163deg, #b9dc0b27 0%, rgba(255, 255, 255, 0.10) 100%);
 }
 
 .pricing-item.style-1 h3 {
@@ -2907,7 +2908,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .faqs-wrap-1 .flat-toggle.active {
-    background: linear-gradient(163deg, rgba(9, 182, 162, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%);
+    background: linear-gradient(163deg, #b9dc0b27 0%, rgba(255, 255, 255, 0.10) 100%);
 }
 
 .faqs-wrap-1 .flat-toggle h4.toggle-title {
@@ -3321,7 +3322,7 @@ ul.list-item li .icon-tick::before {
     width: 318px;
     height: 296px;
     border-radius: 12px;
-    box-shadow: 0px 20px 60px 0px rgba(9, 182, 162, 0.20);
+    box-shadow: 0px 20px 60px 0px #d1fb0063;
     animation: to-left 5s infinite linear;
 }
 
@@ -3330,7 +3331,7 @@ ul.list-item li .icon-tick::before {
     top: 57px;
     left: 11px;
     border-radius: 17px;
-    box-shadow: 0px 20px 40px 0px rgba(9, 182, 162, 0.20);
+    box-shadow: 0px 20px 40px 0px #d1fb0063;
     animation: to-top 5s infinite linear;
 }
 
@@ -3367,7 +3368,7 @@ ul.list-item li .icon-tick::before {
     text-align: center;
     border-radius: 40px;
     border: 1px solid rgba(255, 255, 255, 0.15);
-    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, rgba(9, 182, 162, 0.10) 100%);
+    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, #b9dc0b27 100%);
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
@@ -3376,17 +3377,17 @@ ul.list-item li .icon-tick::before {
 }
 
 .doing-item.active {
-    background: linear-gradient(163deg, rgba(9, 182, 162, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%);
+    background: linear-gradient(163deg, #b9dc0b27 0%, rgba(255, 255, 255, 0.10) 100%);
 }
 
 .doing-item:hover {
-    box-shadow:  0px 0px 15px rgba(9, 182, 162, 0.10);
+    box-shadow:  0px 0px 15px #b9dc0b27;
 }
 
 .doing-item .icon {
     width: 70px;
     height: 70px;
-    background: linear-gradient(150deg, #b9dc0b 0%, rgba(9, 182, 162, 0.05) 100%);
+    background: linear-gradient(150deg, #b9dc0b 0%, #718609 100%);
     font-size: 25px;
     display: flex;
     align-items: center;
@@ -3753,19 +3754,19 @@ ul.list-item li .icon-tick::before {
 }
 
 .slider-type1 .swiper-pagination-bullet.swiper-pagination-bullet-active {
-    background-color: rgba(9, 182, 162, 1);
+    background-color: #bde302;
     position: relative;
 }
 
 .slider-type1 .swiper-pagination-bullet.swiper-pagination-bullet-active::after {
     position: absolute;
     content: '';
-    top: -6.5px;
-    left: -6.5px;
-    width: 21px;
-    height: 21px;
+    top: -6.1px;
+    left: -6.1px;
+    width: 20.5px;
+    height: 20.5px;
     border-radius: 50%;
-    border: 1px solid rgba(9, 182, 162, 1);
+    border: 1px solid #bde302;
 }
 
 .slider-type1 .testimonial-item .image::before,
@@ -5346,7 +5347,7 @@ ul.list-item li .icon-tick::before {
 
 .language-item {
     border-radius: 30px;
-    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, rgba(9, 182, 162, 0.10) 100%);
+    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, #b9dc0b27 100%);
     padding: 15px 40px 15px 15px;
     display: flex;
     align-items: center;
@@ -5369,7 +5370,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .language-item .title a:hover {
-    color: rgba(9, 182, 162, 1);
+    color: #b9dc0b;
 }
 
 .editors-languages .bottom {
@@ -5393,7 +5394,7 @@ ul.list-item li .icon-tick::before {
 .editors-languages .bottom .image img {
     width: 100%;
     border-radius: 15px;
-    box-shadow: 0px 20px 40px 0px rgba(9, 182, 162, 0.10);
+    box-shadow: 0px 20px 40px 0px #b9dc0b27;
 }
 
 .editors-languages .bottom .content {
