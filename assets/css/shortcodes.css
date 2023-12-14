@@ -1249,10 +1249,10 @@
 
 .wg-partners-1 p {
     color: #FFF;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 600;
     line-height: 145%;
-    margin-bottom: 42px;
+    margin-bottom: 12px;
     text-align: center;
 }
 
@@ -2927,7 +2927,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .faqs-wrap-1 .flat-accordion .flat-toggle.active .toggle-title::after {
-    color: rgba(9, 182, 162, 1) !important;
+    color: #b9dc0b !important;
 }
 
 /* type-1 */
@@ -2980,7 +2980,7 @@ ul.list-item li .icon-tick::before {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background: rgba(9, 182, 162, 1);
+    background: #b9dc0b;
 }
 
 .faqs-wrap-2 > .item3 {
@@ -3416,7 +3416,7 @@ ul.list-item li .icon-tick::before {
 }
 
 .doing-item h3 a:hover {
-    color: rgba(9, 182, 162, 1);
+    color: #b9dc0b;
 }
 
 .doing-item p {
