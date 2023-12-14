@@ -2904,7 +2904,7 @@ ul.list-item li .icon-tick::before {
 .faqs-wrap-1 .flat-toggle {
     margin-bottom: 10px;
     padding: 15px 30px 20px 37px;
-    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, rgba(9, 182, 162, 0.05) 100%);
+    background: linear-gradient(163deg, rgba(255, 255, 255, 0.15) 0%, #b9dc0b27 100%);
 }
 
 .faqs-wrap-1 .flat-toggle.active {
