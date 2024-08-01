@@ -981,6 +981,9 @@ h6 {
 .ml--3 {
     margin-left: -3px;
 }
+.new{
+    z-index: 100;
+}
 .fl-item-1,
 .fl-item {
     display: none;
